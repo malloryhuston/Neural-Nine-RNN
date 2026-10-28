@@ -55,6 +55,7 @@ conda init --all
 Now that it has already been set up, create your own `conda` environment and set up its interpreter as `Python 3.10`:
 
 ```bash
+cd Neural-Nine-RNN
 conda create -n neural_nine python=3.10
 ```
 
